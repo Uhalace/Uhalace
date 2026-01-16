@@ -45,6 +45,9 @@ Tenho interesse em:
 
 - **Relatórios Analíticos com IA**  
   Sistema inteligente para análise de dados de temperatura e riscos, com aprendizado contínuo.
+  
+- **Sistema de Marcação de Exames para secretarias de Saúde**  
+  Sistema de Regulação de pacientes desenvolvido em PHP e MySQL.
 
 ### 💻 PHP & Web
 - **Blog MVC em PHP**  
