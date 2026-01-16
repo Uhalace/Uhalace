@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👋 Olá, eu sou Uhalace Souza
 
-<!--
-**Uhalace/Uhalace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor focado em **Backend, Sistemas Web e Mobile**  
+🚀 Em transição da área de Química para **Tecnologia da Informação**  
+📍 Ipiaú – BA, Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+Sou desenvolvedor com experiência na criação de **sistemas em PHP, MySQL e aplicações web** voltadas principalmente para **área da saúde, relatórios analíticos e automação**.
+
+Tenho interesse em:
+- Backend e segurança
+- APIs e integração de sistemas
+- Relatórios analíticos com inteligência artificial
+- Desenvolvimento mobile com React Native
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Linguagens
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📂 Projetos em Destaque
+
+### 🩺 Área da Saúde
+- **Consolidados VIEP**  
+  Sistema de vigilância epidemiológica desenvolvido em PHP e MySQL.
+
+- **Relatórios Analíticos com IA**  
+  Sistema inteligente para análise de dados de temperatura e riscos, com aprendizado contínuo.
+
+### 💻 PHP & Web
+- **Blog MVC em PHP**  
+  Estrutura MVC aplicada com boas práticas.
+- **Gerador de Nota Fiscal em PHP Puro**  
+  Simulação de PDV com foco em lógica e organização do código.
+
+### 📱 Mobile
+- **GinHealth**  
+  Aplicativo desenvolvido em React Native com SQLite.
+
+---
+
+## 📊 Estatísticas do GitHub
+![Uhalace GitHub stats](https://github-readme-stats.vercel.app/api?username=Uhalace&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contato
+📱 WhatsApp: **(73) 98194-3251**  
+📧 Email: *uhalacesouza@gmail.com*
+
+---
+
+⭐ *Sempre aprendendo, evoluindo e construindo soluções com tecnologia.*
