@@ -58,11 +58,6 @@ Tenho interesse em:
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Uhalace GitHub stats](https://github-readme-stats.vercel.app/api?username=Uhalace&show_icons=true&theme=dark)
-
----
-
 ## 📫 Contato
 📱 WhatsApp: **(73) 98194-3251**  
 📧 Email: *uhalacesouza@gmail.com*
