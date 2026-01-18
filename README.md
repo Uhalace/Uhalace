@@ -17,6 +17,16 @@ Tenho interesse em:
 
 ---
 
+## 📊 Minhas Estatísticas
+<div align="center">
+  <a href="https://github.com/Uhalace">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Uhalace&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uhalace&layout=compact&theme=dracula"/>
+  </a>
+</div>
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 💻 Linguagens
@@ -25,7 +35,7 @@ Tenho interesse em:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### 🚀 Frameworks & Bibliotecas
+### 🚀 Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
@@ -46,10 +56,8 @@ Tenho interesse em:
 
 ### 🩺 Área da Saúde
 - **Consolidados VIEP** Sistema de vigilância epidemiológica desenvolvido em PHP e MySQL.
-
 - **Relatórios Analíticos com IA** Sistema inteligente para análise de dados de temperatura e riscos, com aprendizado contínuo.
-  
-- **Sistema de Marcação de Exames para secretarias de Saúde** Sistema de Regulação de pacientes desenvolvido em PHP e MySQL.
+- **Sistema de Marcação de Exames** Sistema de Regulação de pacientes desenvolvido em PHP e MySQL.
 
 ### 💻 PHP & Web
 - **Blog MVC em PHP** Estrutura MVC aplicada com boas práticas.
@@ -61,8 +69,10 @@ Tenho interesse em:
 ---
 
 ## 📫 Contato
-📱 WhatsApp: **(73) 98194-3251** 📧 Email: *uhalacesouza@gmail.com*
+📱 WhatsApp: **(73) 98194-3251** 📧 Email: **uhalacesouza@gmail.com**
 
 ---
 
-⭐ *Sempre aprendendo, evoluindo e construindo soluções com tecnologia.*
+<div align="center">
+⭐ <i>Sempre aprendendo, evoluindo e construindo soluções com tecnologia.</i>
+</div>
