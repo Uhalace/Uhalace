@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Uhalace Souza
 
 💻 Desenvolvedor focado em **Backend, Sistemas Web e Mobile** 🚀 Em transição da área de Química para **Engenharia de Software** 
+
 📍 Ipiaú – BA, Brasil  
 
 ---
